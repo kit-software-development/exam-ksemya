@@ -1,0 +1,18 @@
+C:\Users\natal\Desktop\Отчеты по курсовому проекту от БОГА\MyChatRoom-master\MyChatRoomServer\bin\Debug\MyChatRoomServer.exe
+C:\Users\natal\Desktop\Отчеты по курсовому проекту от БОГА\MyChatRoom-master\MyChatRoomServer\bin\Debug\MyChatRoomServer.pdb
+C:\Users\natal\Desktop\Отчеты по курсовому проекту от БОГА\MyChatRoom-master\MyChatRoomServer\obj\Debug\MyChatRoomServer.csprojResolveAssemblyReference.cache
+C:\Users\natal\Desktop\Отчеты по курсовому проекту от БОГА\MyChatRoom-master\MyChatRoomServer\obj\Debug\MyChatRoomServer.FChatServer.resources
+C:\Users\natal\Desktop\Отчеты по курсовому проекту от БОГА\MyChatRoom-master\MyChatRoomServer\obj\Debug\MyChatRoomServer.Properties.Resources.resources
+C:\Users\natal\Desktop\Отчеты по курсовому проекту от БОГА\MyChatRoom-master\MyChatRoomServer\obj\Debug\MyChatRoomServer.csproj.GenerateResource.cache
+C:\Users\natal\Desktop\Отчеты по курсовому проекту от БОГА\MyChatRoom-master\MyChatRoomServer\obj\Debug\MyChatRoomServer.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Отчеты по курсовому проекту от БОГА\MyChatRoom-master\MyChatRoomServer\obj\Debug\MyChatRoomServer.exe
+C:\Users\natal\Desktop\Отчеты по курсовому проекту от БОГА\MyChatRoom-master\MyChatRoomServer\obj\Debug\MyChatRoomServer.pdb
+C:\Users\Ксюша\Desktop\Важные вещи\любимчик алпатов\MyChatRoom-master\MyChatRoom-master\MyChatRoomServer\bin\Debug\MyChatRoomServer.exe
+C:\Users\Ксюша\Desktop\Важные вещи\любимчик алпатов\MyChatRoom-master\MyChatRoom-master\MyChatRoomServer\bin\Debug\MyChatRoomServer.pdb
+C:\Users\Ксюша\Desktop\Важные вещи\любимчик алпатов\MyChatRoom-master\MyChatRoom-master\MyChatRoomServer\obj\Debug\MyChatRoomServer.csprojAssemblyReference.cache
+C:\Users\Ксюша\Desktop\Важные вещи\любимчик алпатов\MyChatRoom-master\MyChatRoom-master\MyChatRoomServer\obj\Debug\MyChatRoomServer.FChatServer.resources
+C:\Users\Ксюша\Desktop\Важные вещи\любимчик алпатов\MyChatRoom-master\MyChatRoom-master\MyChatRoomServer\obj\Debug\MyChatRoomServer.Properties.Resources.resources
+C:\Users\Ксюша\Desktop\Важные вещи\любимчик алпатов\MyChatRoom-master\MyChatRoom-master\MyChatRoomServer\obj\Debug\MyChatRoomServer.csproj.GenerateResource.cache
+C:\Users\Ксюша\Desktop\Важные вещи\любимчик алпатов\MyChatRoom-master\MyChatRoom-master\MyChatRoomServer\obj\Debug\MyChatRoomServer.csproj.CoreCompileInputs.cache
+C:\Users\Ксюша\Desktop\Важные вещи\любимчик алпатов\MyChatRoom-master\MyChatRoom-master\MyChatRoomServer\obj\Debug\MyChatRoomServer.exe
+C:\Users\Ксюша\Desktop\Важные вещи\любимчик алпатов\MyChatRoom-master\MyChatRoom-master\MyChatRoomServer\obj\Debug\MyChatRoomServer.pdb
